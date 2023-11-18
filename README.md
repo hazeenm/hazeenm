@@ -1,6 +1,4 @@
-👋 Hi, I’m @hazeenm
-🌱 I’m currently learning ...
-- 📫 How to reach me ...
+👋 Hi, I’m @hazeen
 
 <!---
 hazeenm/hazeenm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
